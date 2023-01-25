@@ -1,3 +1,3 @@
 # IBM-DS0720EN
 
-first update.
+Contains files for Data Science and Machine Learning Capstone Project.
